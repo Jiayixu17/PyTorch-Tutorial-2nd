@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-"""
+""" 学习更改
 @file name  : train_rnn_lstm.py
 @author     : TingsongYu https://github.com/TingsongYu
 @date       : 2023-10-08
